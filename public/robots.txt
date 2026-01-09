@@ -1,0 +1,6 @@
+# robots.txt file for website
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://dsconcept.in/sitemap.xml
